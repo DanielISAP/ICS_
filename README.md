@@ -9,8 +9,3 @@ File 3:
 
 
 
-
-For interviewing purposes.
-
-by
-Daniel Paiva
